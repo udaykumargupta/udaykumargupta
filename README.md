@@ -5,7 +5,7 @@ I'm Uday Kumar Gupta, a tech enthusiast and problem-solver who loves building im
 - 🌱 Currently exploring **Spring Boot** to deepen my backend expertise
 - 🤝 Open to collaboration and learning more about **Web Development**
 - 💬 Feel free to ask me about **Spring Boot, Microservices, DSA**
-- 📫 Reach me at: udaykumargupta1104@gmail.com
+- 📫 Reach me at: udaygupta2314@gmail.com
 
 
 <h3 align="left">Connect with me:</h3>
